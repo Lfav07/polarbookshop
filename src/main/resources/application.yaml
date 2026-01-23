@@ -8,3 +8,5 @@ tomcat:
 spring:
   application:
     name: catalog-service
+polar:
+  greeting: Welcome to the local book catalog!
